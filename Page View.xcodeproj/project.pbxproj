@@ -14,6 +14,7 @@
 		04696A032383737E00F010FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04696A022383737E00F010FC /* Assets.xcassets */; };
 		04696A062383737E00F010FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04696A042383737E00F010FC /* LaunchScreen.storyboard */; };
 		04696A112383737E00F010FC /* Page_ViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04696A102383737E00F010FC /* Page_ViewTests.swift */; };
+		04696A1C2383758A00F010FC /* ChildViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04696A1B2383758A00F010FC /* ChildViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		04696A0C2383737E00F010FC /* Page ViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Page ViewTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04696A102383737E00F010FC /* Page_ViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page_ViewTests.swift; sourceTree = "<group>"; };
 		04696A122383737E00F010FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04696A1B2383758A00F010FC /* ChildViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChildViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				046969F92383737900F010FC /* AppDelegate.swift */,
 				046969FB2383737900F010FC /* SceneDelegate.swift */,
 				046969FD2383737900F010FC /* ViewController.swift */,
+				04696A1B2383758A00F010FC /* ChildViewController.swift */,
 				046969FF2383737900F010FC /* Main.storyboard */,
 				04696A022383737E00F010FC /* Assets.xcassets */,
 				04696A042383737E00F010FC /* LaunchScreen.storyboard */,
@@ -203,6 +206,7 @@
 				046969FE2383737900F010FC /* ViewController.swift in Sources */,
 				046969FA2383737900F010FC /* AppDelegate.swift in Sources */,
 				046969FC2383737900F010FC /* SceneDelegate.swift in Sources */,
+				04696A1C2383758A00F010FC /* ChildViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
